@@ -49,7 +49,7 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ily-salamat/bootstrap-5-autocomplete-list.git"
+    "url": "git+https://github.com/ily-salamat/react-bootstrap-autocomplete-list.git"
   },
   "keywords": [
     "bootstrap",
@@ -61,7 +61,7 @@
   "author": "ily-salamat",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ily-salamat/bootstrap-5-autocomplete-list/issues"
+    "url": "https://github.com/ily-salamat/react-bootstrap-autocomplete-list/issues"
   },
-  "homepage": "https://github.com/ily-salamat/bootstrap-5-autocomplete-list#readme"
+  "homepage": "https://github.com/ily-salamat/react-bootstrap-autocomplete-list#readme"
 }
