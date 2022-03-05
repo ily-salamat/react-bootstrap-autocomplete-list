@@ -1,5 +1,5 @@
 import './App.css';
-import BS5FloatingAutocompleteList from './components/floating-autocomplete-list';
+import BS5FloatingAutocompleteList from './components/floating-autocomplete-list/floating-autocomplete-list';
 
 function App() {
 

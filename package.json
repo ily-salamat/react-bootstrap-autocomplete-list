@@ -25,7 +25,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "compile": "tsc --jsx react-jsx --outDir dist/ src/components/*.tsx"
+    "compile": "tsc --jsx react-jsx --outDir dist/ --project tsconfig.npm.json"
   },
   "eslintConfig": {
     "extends": [
@@ -44,5 +44,24 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "React autocomplete list component for bootstrap 5",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ily-salamat/bootstrap-5-autocomplete-list.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "react",
+    "component",
+    "autocomplete",
+    "list"
+  ],
+  "author": "ily-salamat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ily-salamat/bootstrap-5-autocomplete-list/issues"
+  },
+  "homepage": "https://github.com/ily-salamat/bootstrap-5-autocomplete-list#readme"
 }
