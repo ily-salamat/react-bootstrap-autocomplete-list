@@ -1,11 +1,11 @@
 # react-bootstrap-autocomplete-list
 
 ### React autocomplete list component for bootstrap 5
+### Compatible with Next.js
 
-<h1 align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/ily-salamat/react-bootstrap-autocomplete-list/master/autocomplete-list.png" alt="autocomplete list" title="autocomplete list" width="500">
-  <br>
-</h1>
+</div>
 
 # Installation
 ~~~
