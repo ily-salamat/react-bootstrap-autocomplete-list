@@ -12,9 +12,11 @@
 npm install react-bootstrap-autocomplete-list
 ~~~
 
-> This package depends on `react`, `bootstrap 5` and `popperjs`. Please make sure you have them installed.
+## ⚠️ Important
 
-> Also make sure you have imported `bootstrap` css & js into your `react` project.
+This package depends on `react`, `bootstrap 5` and `popperjs`. Please make sure you have them installed.
+
+Also make sure you have imported `bootstrap` css & js into your `react` project.
 
 # Example
 
