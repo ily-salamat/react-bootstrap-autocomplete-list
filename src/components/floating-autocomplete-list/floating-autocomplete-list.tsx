@@ -1,7 +1,7 @@
 import { Dropdown } from "bootstrap";
 import { Component, KeyboardEvent, MouseEvent } from "react";
 
-type IProps = typeof BS5FloatingAutocompleteList.defaultProps & {
+type Props = typeof BS5FloatingAutocompleteList.defaultProps & {
     defaultValue?: string,
     id?: string,
     label?: string,
@@ -12,26 +12,26 @@ type IProps = typeof BS5FloatingAutocompleteList.defaultProps & {
     maxHeight?: string
 }
 
-type IState = {
+type State = {
     value: string,
     list: string[]
 }
 
-export default class BS5FloatingAutocompleteList extends Component<IProps, IState> {
+export default class BS5FloatingAutocompleteList extends Component<Props, State> {
 
     static defaultProps = {
         id: 'autocompleteList',
         label: 'Autocomplete List',
         startAt: 0,
         maxHeight: '200px',
-        list: ['Item1', 'Item2', 'Item3'],
+        list: ['Item 1', 'Item 2', 'Item 3'],
         selectedValue: (valie: string) => { },
         valueOnChange: (valie: string) => { }
     };
 
     dropdown: Dropdown | undefined;
 
-    constructor(props: IProps) {
+    constructor(props: Props) {
         super(props);
         this.state = {
             value: props.defaultValue || '',

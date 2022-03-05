@@ -6,6 +6,13 @@
 # testing
 /coverage
 
+# development
+/src
+/public
+/package-lock.json
+/tsconfig*
+/.gitignore
+
 # production
 /build
 
