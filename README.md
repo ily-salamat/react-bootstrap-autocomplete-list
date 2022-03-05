@@ -1,15 +1,15 @@
-# bootstrap-5-autocomplete-list
+# react-bootstrap-autocomplete-list
 
 ### React autocomplete list component for bootstrap 5
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ily-salamat/bootstrap-5-autocomplete-list/master/autocomplete-list.png" alt="autocomplete list" title="autocomplete list" width="500">
+  <img src="https://raw.githubusercontent.com/ily-salamat/react-bootstrap-autocomplete-list/master/autocomplete-list.png" alt="autocomplete list" title="autocomplete list" width="500">
   <br>
 </h1>
 
 # Installation
 ~~~
-npm install bootstrap-5-autocomplete-list
+npm install react-bootstrap-autocomplete-list
 ~~~
 
 > This package depends on `react`, `bootstrap 5` and `popperjs`. Please make sure you have them installed.

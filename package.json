@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-5-autocomplete-list",
+  "name": "react-bootstrap-autocomplete-list",
   "version": "1.0.0",
   "private": false,
   "dependencies": {},
@@ -45,7 +45,7 @@
       "last 1 safari version"
     ]
   },
-  "description": "React autocomplete list component for bootstrap 5",
+  "description": "React autocomplete list component for bootstrap",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
