@@ -2,6 +2,11 @@
 
 ### React autocomplete list component for bootstrap 5
 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ily-salamat/bootstrap-5-autocomplete-list/master/autocomplete-list.png" alt="autocomplete list" title="autocomplete list" width="500">
+  <br>
+</h1>
+
 # Installation
 ~~~
 npm install bootstrap-5-autocomplete-list
