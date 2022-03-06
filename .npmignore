@@ -12,6 +12,7 @@
 /package-lock.json
 /tsconfig*
 /.gitignore
+/autocomplete-list.gif
 
 # production
 /build
