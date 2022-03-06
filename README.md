@@ -46,7 +46,26 @@ export default function Example() {
 |id|String|'autocompleteList'|Component identifier, if you use several instances of this component, it's important to use a different identifier for each instance|
 |label|String|'Autocomplete List'|Label for input element|
 |list|String[]|['Item1', 'Item2', 'Item3']|List of items|
-|startAt|number|0|Set character index to start searching for items|
+|startAt|number|0|Set character index to start searching for items, useful for large lists to avoid performance issues|
 |selectedValue|function| |Execute a function to get the selected item|
 |valueOnChange|function| |Execute a function when a user changes the content of the input field|
 |maxHeight|number|'200px'|Set maximum list item height|
+
+# Contribute
+
+Clone [react-bootstrap-autocomplete-list](https://github.com/ily-salamat/react-bootstrap-autocomplete-list) from GitHub
+~~~
+gh repo clone ily-salamat/react-bootstrap-autocomplete-list
+~~~
+
+Install npm packages
+~~~
+npm install
+~~~
+
+Run the react app in dev mode
+~~~
+npm start
+~~~
+
+That's all, you can start contributing now ❤️
