@@ -44,12 +44,12 @@ export default function Example() {
 |Prop|Type|Default|Description|
 |:----|:----|:----|:----|
 |id|String|'autocompleteList'|Component identifier, if you use several instances of this component, it's important to use a different identifier for each instance|
-|label|String|'Autocomplete List'|Label for input element|
-|list|String[]|['Item1', 'Item2', 'Item3']|List of items|
+|label|string|'Autocomplete List'|Label for input element|
+|list|string[]|['Item1', 'Item2', 'Item3']|List of items|
 |startAt|number|0|Set character index to start searching for items, useful for large lists to avoid performance issues|
 |selectedValue|function| |Execute a function to get the selected item|
 |valueOnChange|function| |Execute a function when a user changes the content of the input field|
-|maxHeight|number|'200px'|Set maximum list item height|
+|maxHeight|string|'200px'|Set maximum list item height|
 
 # Contribute
 
