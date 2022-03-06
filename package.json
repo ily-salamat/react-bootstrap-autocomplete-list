@@ -1,6 +1,6 @@
 {
   "name": "react-bootstrap-autocomplete-list",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "private": false,
   "dependencies": {},
   "devDependencies": {
@@ -57,7 +57,9 @@
     "react",
     "component",
     "autocomplete",
-    "list"
+    "list",
+    "front-end",
+    "nextjs"
   ],
   "author": "ily-salamat",
   "license": "ISC",
