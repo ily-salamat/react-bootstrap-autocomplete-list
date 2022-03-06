@@ -4,7 +4,7 @@
 ### Compatible with Next.js
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ily-salamat/react-bootstrap-autocomplete-list/master/autocomplete-list.png" alt="autocomplete list" title="autocomplete list" width="500">
+  <img src="https://raw.githubusercontent.com/ily-salamat/react-bootstrap-autocomplete-list/master/autocomplete-list.gif" alt="autocomplete list" title="autocomplete list" width="500">
 </div>
 
 # Installation
