@@ -21,7 +21,7 @@ Also make sure you have imported `bootstrap` css & js into your `react` project.
 # Example
 
 ~~~
-import { BS5FloatingAutocompleteList } from 'bootstrap-5-autocomplete-list';
+import { BS5FloatingAutocompleteList } from 'react-bootstrap-autocomplete-list';
 
 export default function Example() {
 
