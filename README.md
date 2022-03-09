@@ -43,7 +43,7 @@ export default function Example() {
 
 |Prop|Type|Default|Description|
 |:----|:----|:----|:----|
-|id|String|'autocompleteList'|Component identifier, if you use several instances of this component, it's important to use a different identifier for each instance|
+|id|string|'autocompleteList'|Component identifier, if you use several instances of this component, it's important to use a different identifier for each instance|
 |label|string|'Autocomplete List'|Label for input element|
 |list|string[]|['Item1', 'Item2', 'Item3']|List of items|
 |startAt|number|0|Set character index to start searching for items, useful for large lists to avoid performance issues|

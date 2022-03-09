@@ -9,10 +9,9 @@
 # development
 /src
 /public
-/package-lock.json
-/tsconfig*
-/.gitignore
-/autocomplete-list.gif
+tsconfig*
+package-lock.json
+.gitignore
 
 # production
 /build
@@ -27,3 +26,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+autocomplete-list.gif

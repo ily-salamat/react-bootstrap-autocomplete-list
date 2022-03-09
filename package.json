@@ -1,6 +1,6 @@
 {
   "name": "react-bootstrap-autocomplete-list",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "private": false,
   "dependencies": {},
   "devDependencies": {
@@ -22,11 +22,11 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "PUBLIC_URL=/ react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "dist": "copyfiles -u 2 src/components/**/*.css dist/ ;tsc --jsx react-jsx --outDir dist/ -p tsconfig.dist.json"
+    "dist": "copyfiles -u 2 src/components/**/*.css dist/ && tsc --jsx react-jsx --outDir dist/ -p tsconfig.dist.json"
   },
   "eslintConfig": {
     "extends": [
@@ -65,6 +65,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ily-salamat/react-bootstrap-autocomplete-list/issues"
-  },
-  "homepage": "https://github.com/ily-salamat/react-bootstrap-autocomplete-list#readme"
+  }
 }

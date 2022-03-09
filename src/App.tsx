@@ -1,4 +1,3 @@
-import './App.css';
 import { BS5FloatingAutocompleteList } from './components';
 
 function App() {
