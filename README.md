@@ -53,10 +53,7 @@ export default function Example() {
 
 # Contribute
 
-Clone [react-bootstrap-autocomplete-list](https://github.com/ily-salamat/react-bootstrap-autocomplete-list) from GitHub
-~~~
-gh repo clone ily-salamat/react-bootstrap-autocomplete-list
-~~~
+Fork and clone [react-bootstrap-autocomplete-list](https://github.com/ily-salamat/react-bootstrap-autocomplete-list) from GitHub
 
 Install npm packages
 ~~~
