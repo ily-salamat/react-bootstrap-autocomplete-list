@@ -12,6 +12,7 @@
 tsconfig*
 package-lock.json
 .gitignore
+.prettierignore
 
 # production
 /build
